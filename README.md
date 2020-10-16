@@ -64,3 +64,5 @@ influxdb: proxmox-cluster-1
 Done, whit this you can send the proxmox metrics to InfluxDB, connect Grafana to that InfluxDB and create different kind of Dashboard visualizations for Proxmox.
 
 # Grafana Dashboard
+
+Our model of the proxmox Dashboard can be download from this repository, the file: Proxmox E1-1602866192630.json have all the configuration for create the Dashboard you can import this on your own Grafana and modify this accord your needs and configurations.
