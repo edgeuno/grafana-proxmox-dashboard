@@ -1,5 +1,8 @@
 # grafana-proxmox-dashboard
 
+![](grafana-proxmox.png)
+
+
 A Graphana dashboard to visualize the status of different Proxmox clusters distributed in different data centers.
 
 # Requirements
